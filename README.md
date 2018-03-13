@@ -1,3 +1,4 @@
-# ConFoo Official speakers slides repositiry
+# ConFoo Montreal 2018
 
-# ConFoo Vancouver 2017
+| Presentation Title | Speaker Name  |
+---------------------|---------------|
